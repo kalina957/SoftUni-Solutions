@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Arrays-Exercices\Index-Of-Letters\bin\Debug\netcoreapp2.0\Index-Of-Letters.deps.json
+C:\Users\User\source\repos\Arrays-Exercices\Index-Of-Letters\bin\Debug\netcoreapp2.0\Index-Of-Letters.runtimeconfig.json
+C:\Users\User\source\repos\Arrays-Exercices\Index-Of-Letters\bin\Debug\netcoreapp2.0\Index-Of-Letters.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays-Exercices\Index-Of-Letters\bin\Debug\netcoreapp2.0\Index-Of-Letters.dll
+C:\Users\User\source\repos\Arrays-Exercices\Index-Of-Letters\bin\Debug\netcoreapp2.0\Index-Of-Letters.pdb
+C:\Users\User\source\repos\Arrays-Exercices\Index-Of-Letters\obj\Debug\netcoreapp2.0\Index-Of-Letters.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Arrays-Exercices\Index-Of-Letters\obj\Debug\netcoreapp2.0\Index-Of-Letters.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays-Exercices\Index-Of-Letters\obj\Debug\netcoreapp2.0\Index-Of-Letters.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays-Exercices\Index-Of-Letters\obj\Debug\netcoreapp2.0\Index-Of-Letters.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays-Exercices\Index-Of-Letters\obj\Debug\netcoreapp2.0\Index-Of-Letters.dll
+C:\Users\User\source\repos\Arrays-Exercices\Index-Of-Letters\obj\Debug\netcoreapp2.0\Index-Of-Letters.pdb

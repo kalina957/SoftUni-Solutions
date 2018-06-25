@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Arrays-Lab\Last-K-Nubers\bin\Debug\netcoreapp2.0\Last-K-Nubers.deps.json
+C:\Users\User\source\repos\Arrays-Lab\Last-K-Nubers\bin\Debug\netcoreapp2.0\Last-K-Nubers.runtimeconfig.json
+C:\Users\User\source\repos\Arrays-Lab\Last-K-Nubers\bin\Debug\netcoreapp2.0\Last-K-Nubers.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays-Lab\Last-K-Nubers\bin\Debug\netcoreapp2.0\Last-K-Nubers.dll
+C:\Users\User\source\repos\Arrays-Lab\Last-K-Nubers\bin\Debug\netcoreapp2.0\Last-K-Nubers.pdb
+C:\Users\User\source\repos\Arrays-Lab\Last-K-Nubers\obj\Debug\netcoreapp2.0\Last-K-Nubers.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Arrays-Lab\Last-K-Nubers\obj\Debug\netcoreapp2.0\Last-K-Nubers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays-Lab\Last-K-Nubers\obj\Debug\netcoreapp2.0\Last-K-Nubers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays-Lab\Last-K-Nubers\obj\Debug\netcoreapp2.0\Last-K-Nubers.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays-Lab\Last-K-Nubers\obj\Debug\netcoreapp2.0\Last-K-Nubers.dll
+C:\Users\User\source\repos\Arrays-Lab\Last-K-Nubers\obj\Debug\netcoreapp2.0\Last-K-Nubers.pdb

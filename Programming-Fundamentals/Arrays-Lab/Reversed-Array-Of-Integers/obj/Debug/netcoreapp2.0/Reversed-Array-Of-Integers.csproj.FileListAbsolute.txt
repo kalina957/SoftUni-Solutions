@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Arrays-Lab\Reversed-Array-Of-Integers\obj\Debug\netcoreapp2.0\Reversed-Array-Of-Integers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays-Lab\Reversed-Array-Of-Integers\obj\Debug\netcoreapp2.0\Reversed-Array-Of-Integers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays-Lab\Reversed-Array-Of-Integers\obj\Debug\netcoreapp2.0\Reversed-Array-Of-Integers.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays-Lab\Reversed-Array-Of-Integers\bin\Debug\netcoreapp2.0\Reversed-Array-Of-Integers.deps.json
+C:\Users\User\source\repos\Arrays-Lab\Reversed-Array-Of-Integers\bin\Debug\netcoreapp2.0\Reversed-Array-Of-Integers.runtimeconfig.json
+C:\Users\User\source\repos\Arrays-Lab\Reversed-Array-Of-Integers\bin\Debug\netcoreapp2.0\Reversed-Array-Of-Integers.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays-Lab\Reversed-Array-Of-Integers\bin\Debug\netcoreapp2.0\Reversed-Array-Of-Integers.dll
+C:\Users\User\source\repos\Arrays-Lab\Reversed-Array-Of-Integers\bin\Debug\netcoreapp2.0\Reversed-Array-Of-Integers.pdb
+C:\Users\User\source\repos\Arrays-Lab\Reversed-Array-Of-Integers\obj\Debug\netcoreapp2.0\Reversed-Array-Of-Integers.dll
+C:\Users\User\source\repos\Arrays-Lab\Reversed-Array-Of-Integers\obj\Debug\netcoreapp2.0\Reversed-Array-Of-Integers.pdb

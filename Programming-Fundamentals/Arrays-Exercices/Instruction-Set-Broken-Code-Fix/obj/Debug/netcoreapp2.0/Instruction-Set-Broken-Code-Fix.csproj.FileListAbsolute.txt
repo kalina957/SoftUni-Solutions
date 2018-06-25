@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Arrays-Exercices\Instruction-Set-Broken-Code-Fix\obj\Debug\netcoreapp2.0\Instruction-Set-Broken-Code-Fix.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays-Exercices\Instruction-Set-Broken-Code-Fix\obj\Debug\netcoreapp2.0\Instruction-Set-Broken-Code-Fix.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays-Exercices\Instruction-Set-Broken-Code-Fix\obj\Debug\netcoreapp2.0\Instruction-Set-Broken-Code-Fix.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays-Exercices\Instruction-Set-Broken-Code-Fix\bin\Debug\netcoreapp2.0\Instruction-Set-Broken-Code-Fix.deps.json
+C:\Users\User\source\repos\Arrays-Exercices\Instruction-Set-Broken-Code-Fix\bin\Debug\netcoreapp2.0\Instruction-Set-Broken-Code-Fix.runtimeconfig.json
+C:\Users\User\source\repos\Arrays-Exercices\Instruction-Set-Broken-Code-Fix\bin\Debug\netcoreapp2.0\Instruction-Set-Broken-Code-Fix.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays-Exercices\Instruction-Set-Broken-Code-Fix\bin\Debug\netcoreapp2.0\Instruction-Set-Broken-Code-Fix.dll
+C:\Users\User\source\repos\Arrays-Exercices\Instruction-Set-Broken-Code-Fix\bin\Debug\netcoreapp2.0\Instruction-Set-Broken-Code-Fix.pdb
+C:\Users\User\source\repos\Arrays-Exercices\Instruction-Set-Broken-Code-Fix\obj\Debug\netcoreapp2.0\Instruction-Set-Broken-Code-Fix.dll
+C:\Users\User\source\repos\Arrays-Exercices\Instruction-Set-Broken-Code-Fix\obj\Debug\netcoreapp2.0\Instruction-Set-Broken-Code-Fix.pdb
