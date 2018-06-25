@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mentor-Group", "Mentor-Group\Mentor-Group.csproj", "{420CB22E-33B4-4F44-B74B-4C59B38E1E8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teamwork-Projects", "Teamwork-Projects\Teamwork-Projects.csproj", "{B42FDA09-F104-4487-8733-16DDFD76543E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{420CB22E-33B4-4F44-B74B-4C59B38E1E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420CB22E-33B4-4F44-B74B-4C59B38E1E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420CB22E-33B4-4F44-B74B-4C59B38E1E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420CB22E-33B4-4F44-B74B-4C59B38E1E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B42FDA09-F104-4487-8733-16DDFD76543E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B42FDA09-F104-4487-8733-16DDFD76543E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B42FDA09-F104-4487-8733-16DDFD76543E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B42FDA09-F104-4487-8733-16DDFD76543E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9BD3082-B14E-45D8-A75E-57325EBA40FD}
+	EndGlobalSection
+EndGlobal

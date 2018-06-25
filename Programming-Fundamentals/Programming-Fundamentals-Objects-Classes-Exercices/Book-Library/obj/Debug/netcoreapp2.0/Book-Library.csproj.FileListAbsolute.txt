@@ -1,0 +1,4 @@
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Book-Library\obj\Debug\netcoreapp2.0\Book-Library.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Book-Library\obj\Debug\netcoreapp2.0\Book-Library.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Book-Library\obj\Debug\netcoreapp2.0\Book-Library.AssemblyInfoInputs.cache
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Book-Library\obj\Debug\netcoreapp2.0\Book-Library.AssemblyInfo.cs

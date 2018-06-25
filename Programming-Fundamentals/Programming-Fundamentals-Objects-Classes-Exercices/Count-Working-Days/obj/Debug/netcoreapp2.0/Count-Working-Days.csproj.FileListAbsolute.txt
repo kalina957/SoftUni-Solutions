@@ -1,0 +1,11 @@
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Count-Working-Days\bin\Debug\netcoreapp2.0\Count-Working-Days.deps.json
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Count-Working-Days\bin\Debug\netcoreapp2.0\Count-Working-Days.runtimeconfig.json
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Count-Working-Days\bin\Debug\netcoreapp2.0\Count-Working-Days.runtimeconfig.dev.json
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Count-Working-Days\bin\Debug\netcoreapp2.0\Count-Working-Days.dll
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Count-Working-Days\bin\Debug\netcoreapp2.0\Count-Working-Days.pdb
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Count-Working-Days\obj\Debug\netcoreapp2.0\Count-Working-Days.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Count-Working-Days\obj\Debug\netcoreapp2.0\Count-Working-Days.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Count-Working-Days\obj\Debug\netcoreapp2.0\Count-Working-Days.AssemblyInfoInputs.cache
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Count-Working-Days\obj\Debug\netcoreapp2.0\Count-Working-Days.AssemblyInfo.cs
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Count-Working-Days\obj\Debug\netcoreapp2.0\Count-Working-Days.dll
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Count-Working-Days\obj\Debug\netcoreapp2.0\Count-Working-Days.pdb

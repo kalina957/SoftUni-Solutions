@@ -1,0 +1,11 @@
+c:\users\user\source\repos\Mentor-Group\Mentor-Group\bin\Debug\netcoreapp2.0\Mentor-Group.deps.json
+c:\users\user\source\repos\Mentor-Group\Mentor-Group\bin\Debug\netcoreapp2.0\Mentor-Group.runtimeconfig.json
+c:\users\user\source\repos\Mentor-Group\Mentor-Group\bin\Debug\netcoreapp2.0\Mentor-Group.runtimeconfig.dev.json
+c:\users\user\source\repos\Mentor-Group\Mentor-Group\bin\Debug\netcoreapp2.0\Mentor-Group.dll
+c:\users\user\source\repos\Mentor-Group\Mentor-Group\bin\Debug\netcoreapp2.0\Mentor-Group.pdb
+c:\users\user\source\repos\Mentor-Group\Mentor-Group\obj\Debug\netcoreapp2.0\Mentor-Group.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Mentor-Group\Mentor-Group\obj\Debug\netcoreapp2.0\Mentor-Group.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Mentor-Group\Mentor-Group\obj\Debug\netcoreapp2.0\Mentor-Group.AssemblyInfoInputs.cache
+c:\users\user\source\repos\Mentor-Group\Mentor-Group\obj\Debug\netcoreapp2.0\Mentor-Group.AssemblyInfo.cs
+c:\users\user\source\repos\Mentor-Group\Mentor-Group\obj\Debug\netcoreapp2.0\Mentor-Group.dll
+c:\users\user\source\repos\Mentor-Group\Mentor-Group\obj\Debug\netcoreapp2.0\Mentor-Group.pdb

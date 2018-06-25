@@ -1,0 +1,11 @@
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Distance-Between-Points\obj\Debug\netcoreapp2.0\Distance-Between-Points.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Distance-Between-Points\obj\Debug\netcoreapp2.0\Distance-Between-Points.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Distance-Between-Points\obj\Debug\netcoreapp2.0\Distance-Between-Points.AssemblyInfoInputs.cache
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Distance-Between-Points\obj\Debug\netcoreapp2.0\Distance-Between-Points.AssemblyInfo.cs
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Distance-Between-Points\bin\Debug\netcoreapp2.0\Distance-Between-Points.deps.json
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Distance-Between-Points\bin\Debug\netcoreapp2.0\Distance-Between-Points.runtimeconfig.json
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Distance-Between-Points\bin\Debug\netcoreapp2.0\Distance-Between-Points.runtimeconfig.dev.json
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Distance-Between-Points\bin\Debug\netcoreapp2.0\Distance-Between-Points.dll
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Distance-Between-Points\bin\Debug\netcoreapp2.0\Distance-Between-Points.pdb
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Distance-Between-Points\obj\Debug\netcoreapp2.0\Distance-Between-Points.dll
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Distance-Between-Points\obj\Debug\netcoreapp2.0\Distance-Between-Points.pdb

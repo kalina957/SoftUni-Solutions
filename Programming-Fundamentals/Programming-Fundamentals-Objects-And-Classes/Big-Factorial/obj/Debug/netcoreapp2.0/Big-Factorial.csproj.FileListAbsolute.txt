@@ -1,0 +1,10 @@
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Big-Factorial\bin\Debug\netcoreapp2.0\Big-Factorial.deps.json
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Big-Factorial\bin\Debug\netcoreapp2.0\Big-Factorial.runtimeconfig.json
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Big-Factorial\bin\Debug\netcoreapp2.0\Big-Factorial.runtimeconfig.dev.json
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Big-Factorial\bin\Debug\netcoreapp2.0\Big-Factorial.dll
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Big-Factorial\bin\Debug\netcoreapp2.0\Big-Factorial.pdb
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Big-Factorial\obj\Debug\netcoreapp2.0\Big-Factorial.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Big-Factorial\obj\Debug\netcoreapp2.0\Big-Factorial.AssemblyInfoInputs.cache
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Big-Factorial\obj\Debug\netcoreapp2.0\Big-Factorial.AssemblyInfo.cs
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Big-Factorial\obj\Debug\netcoreapp2.0\Big-Factorial.dll
+c:\users\user\source\repos\Programming-Fundamentals-Objects-And-Classes\Big-Factorial\obj\Debug\netcoreapp2.0\Big-Factorial.pdb

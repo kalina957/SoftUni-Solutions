@@ -1,0 +1,11 @@
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Average-Grades\bin\Debug\netcoreapp2.0\Average-Grades.deps.json
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Average-Grades\bin\Debug\netcoreapp2.0\Average-Grades.runtimeconfig.json
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Average-Grades\bin\Debug\netcoreapp2.0\Average-Grades.runtimeconfig.dev.json
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Average-Grades\bin\Debug\netcoreapp2.0\Average-Grades.dll
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Average-Grades\bin\Debug\netcoreapp2.0\Average-Grades.pdb
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Average-Grades\obj\Debug\netcoreapp2.0\Average-Grades.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Average-Grades\obj\Debug\netcoreapp2.0\Average-Grades.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Average-Grades\obj\Debug\netcoreapp2.0\Average-Grades.AssemblyInfoInputs.cache
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Average-Grades\obj\Debug\netcoreapp2.0\Average-Grades.AssemblyInfo.cs
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Average-Grades\obj\Debug\netcoreapp2.0\Average-Grades.dll
+c:\users\user\source\repos\Programming-Fundamentals-Objects-Classes-Exercices\Average-Grades\obj\Debug\netcoreapp2.0\Average-Grades.pdb
