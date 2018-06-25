@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Trailing-Zeroes\bin\Debug\netcoreapp2.0\Trailing-Zeroes.deps.json
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Trailing-Zeroes\bin\Debug\netcoreapp2.0\Trailing-Zeroes.runtimeconfig.json
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Trailing-Zeroes\bin\Debug\netcoreapp2.0\Trailing-Zeroes.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Trailing-Zeroes\bin\Debug\netcoreapp2.0\Trailing-Zeroes.dll
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Trailing-Zeroes\bin\Debug\netcoreapp2.0\Trailing-Zeroes.pdb
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Trailing-Zeroes\obj\Debug\netcoreapp2.0\Trailing-Zeroes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Trailing-Zeroes\obj\Debug\netcoreapp2.0\Trailing-Zeroes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Trailing-Zeroes\obj\Debug\netcoreapp2.0\Trailing-Zeroes.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Trailing-Zeroes\obj\Debug\netcoreapp2.0\Trailing-Zeroes.dll
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Trailing-Zeroes\obj\Debug\netcoreapp2.0\Trailing-Zeroes.pdb

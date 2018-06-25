@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Methods-And-Debugging\Math-Power\bin\Debug\Math-Power.exe.config
+C:\Users\User\source\repos\Methods-And-Debugging\Math-Power\bin\Debug\Math-Power.exe
+C:\Users\User\source\repos\Methods-And-Debugging\Math-Power\bin\Debug\Math-Power.pdb
+C:\Users\User\source\repos\Methods-And-Debugging\Math-Power\obj\Debug\Math-Power.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Methods-And-Debugging\Math-Power\obj\Debug\Math-Power.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods-And-Debugging\Math-Power\obj\Debug\Math-Power.exe
+C:\Users\User\source\repos\Methods-And-Debugging\Math-Power\obj\Debug\Math-Power.pdb

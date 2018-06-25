@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Methods-And-Debugging\Sign-Of-Integer-Number\obj\Debug\netcoreapp2.0\Sign-Of-Integer-Number.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Methods-And-Debugging\Sign-Of-Integer-Number\obj\Debug\netcoreapp2.0\Sign-Of-Integer-Number.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods-And-Debugging\Sign-Of-Integer-Number\obj\Debug\netcoreapp2.0\Sign-Of-Integer-Number.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods-And-Debugging\Sign-Of-Integer-Number\obj\Debug\netcoreapp2.0\Sign-Of-Integer-Number.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods-And-Debugging\Sign-Of-Integer-Number\bin\Debug\netcoreapp2.0\Sign-Of-Integer-Number.deps.json
+C:\Users\User\source\repos\Methods-And-Debugging\Sign-Of-Integer-Number\bin\Debug\netcoreapp2.0\Sign-Of-Integer-Number.runtimeconfig.json
+C:\Users\User\source\repos\Methods-And-Debugging\Sign-Of-Integer-Number\bin\Debug\netcoreapp2.0\Sign-Of-Integer-Number.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods-And-Debugging\Sign-Of-Integer-Number\bin\Debug\netcoreapp2.0\Sign-Of-Integer-Number.dll
+C:\Users\User\source\repos\Methods-And-Debugging\Sign-Of-Integer-Number\bin\Debug\netcoreapp2.0\Sign-Of-Integer-Number.pdb
+C:\Users\User\source\repos\Methods-And-Debugging\Sign-Of-Integer-Number\obj\Debug\netcoreapp2.0\Sign-Of-Integer-Number.dll
+C:\Users\User\source\repos\Methods-And-Debugging\Sign-Of-Integer-Number\obj\Debug\netcoreapp2.0\Sign-Of-Integer-Number.pdb

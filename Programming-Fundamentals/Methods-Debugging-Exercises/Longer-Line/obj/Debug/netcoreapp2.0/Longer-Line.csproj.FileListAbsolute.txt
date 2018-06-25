@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Longer-Line\bin\Debug\netcoreapp2.0\Longer-Line.deps.json
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Longer-Line\bin\Debug\netcoreapp2.0\Longer-Line.runtimeconfig.json
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Longer-Line\bin\Debug\netcoreapp2.0\Longer-Line.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Longer-Line\bin\Debug\netcoreapp2.0\Longer-Line.dll
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Longer-Line\bin\Debug\netcoreapp2.0\Longer-Line.pdb
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Longer-Line\obj\Debug\netcoreapp2.0\Longer-Line.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Longer-Line\obj\Debug\netcoreapp2.0\Longer-Line.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Longer-Line\obj\Debug\netcoreapp2.0\Longer-Line.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Longer-Line\obj\Debug\netcoreapp2.0\Longer-Line.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Longer-Line\obj\Debug\netcoreapp2.0\Longer-Line.dll
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Longer-Line\obj\Debug\netcoreapp2.0\Longer-Line.pdb

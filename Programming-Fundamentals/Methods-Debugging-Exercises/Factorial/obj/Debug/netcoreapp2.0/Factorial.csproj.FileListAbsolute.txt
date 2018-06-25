@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Factorial\obj\Debug\netcoreapp2.0\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Factorial\obj\Debug\netcoreapp2.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Factorial\obj\Debug\netcoreapp2.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Factorial\obj\Debug\netcoreapp2.0\Factorial.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Factorial\bin\Debug\netcoreapp2.0\Factorial.deps.json
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Factorial\bin\Debug\netcoreapp2.0\Factorial.runtimeconfig.json
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Factorial\bin\Debug\netcoreapp2.0\Factorial.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Factorial\bin\Debug\netcoreapp2.0\Factorial.dll
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Factorial\bin\Debug\netcoreapp2.0\Factorial.pdb
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Factorial\obj\Debug\netcoreapp2.0\Factorial.dll
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Factorial\obj\Debug\netcoreapp2.0\Factorial.pdb

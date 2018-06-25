@@ -1,0 +1,10 @@
+c:\users\user\source\repos\Methods-Debugging-Exercises\English-Name-Of-Last-Digit\bin\Debug\netcoreapp2.0\English-Name-Of-Last-Digit.deps.json
+c:\users\user\source\repos\Methods-Debugging-Exercises\English-Name-Of-Last-Digit\bin\Debug\netcoreapp2.0\English-Name-Of-Last-Digit.runtimeconfig.json
+c:\users\user\source\repos\Methods-Debugging-Exercises\English-Name-Of-Last-Digit\bin\Debug\netcoreapp2.0\English-Name-Of-Last-Digit.runtimeconfig.dev.json
+c:\users\user\source\repos\Methods-Debugging-Exercises\English-Name-Of-Last-Digit\bin\Debug\netcoreapp2.0\English-Name-Of-Last-Digit.dll
+c:\users\user\source\repos\Methods-Debugging-Exercises\English-Name-Of-Last-Digit\bin\Debug\netcoreapp2.0\English-Name-Of-Last-Digit.pdb
+c:\users\user\source\repos\Methods-Debugging-Exercises\English-Name-Of-Last-Digit\obj\Debug\netcoreapp2.0\English-Name-Of-Last-Digit.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Methods-Debugging-Exercises\English-Name-Of-Last-Digit\obj\Debug\netcoreapp2.0\English-Name-Of-Last-Digit.AssemblyInfoInputs.cache
+c:\users\user\source\repos\Methods-Debugging-Exercises\English-Name-Of-Last-Digit\obj\Debug\netcoreapp2.0\English-Name-Of-Last-Digit.AssemblyInfo.cs
+c:\users\user\source\repos\Methods-Debugging-Exercises\English-Name-Of-Last-Digit\obj\Debug\netcoreapp2.0\English-Name-Of-Last-Digit.dll
+c:\users\user\source\repos\Methods-Debugging-Exercises\English-Name-Of-Last-Digit\obj\Debug\netcoreapp2.0\English-Name-Of-Last-Digit.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Methods-And-Debugging\Price-Change-Alert\bin\Debug\netcoreapp2.0\Price-Change-Alert.deps.json
+C:\Users\User\source\repos\Methods-And-Debugging\Price-Change-Alert\bin\Debug\netcoreapp2.0\Price-Change-Alert.runtimeconfig.json
+C:\Users\User\source\repos\Methods-And-Debugging\Price-Change-Alert\bin\Debug\netcoreapp2.0\Price-Change-Alert.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods-And-Debugging\Price-Change-Alert\bin\Debug\netcoreapp2.0\Price-Change-Alert.dll
+C:\Users\User\source\repos\Methods-And-Debugging\Price-Change-Alert\bin\Debug\netcoreapp2.0\Price-Change-Alert.pdb
+C:\Users\User\source\repos\Methods-And-Debugging\Price-Change-Alert\obj\Debug\netcoreapp2.0\Price-Change-Alert.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Methods-And-Debugging\Price-Change-Alert\obj\Debug\netcoreapp2.0\Price-Change-Alert.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods-And-Debugging\Price-Change-Alert\obj\Debug\netcoreapp2.0\Price-Change-Alert.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods-And-Debugging\Price-Change-Alert\obj\Debug\netcoreapp2.0\Price-Change-Alert.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods-And-Debugging\Price-Change-Alert\obj\Debug\netcoreapp2.0\Price-Change-Alert.dll
+C:\Users\User\source\repos\Methods-And-Debugging\Price-Change-Alert\obj\Debug\netcoreapp2.0\Price-Change-Alert.pdb

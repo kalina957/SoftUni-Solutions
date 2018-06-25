@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Methods-And-Debugging\Draw-A-Filled-Square\bin\Debug\netcoreapp2.0\Draw-A-Filled-Square.deps.json
+C:\Users\User\source\repos\Methods-And-Debugging\Draw-A-Filled-Square\bin\Debug\netcoreapp2.0\Draw-A-Filled-Square.runtimeconfig.json
+C:\Users\User\source\repos\Methods-And-Debugging\Draw-A-Filled-Square\bin\Debug\netcoreapp2.0\Draw-A-Filled-Square.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods-And-Debugging\Draw-A-Filled-Square\bin\Debug\netcoreapp2.0\Draw-A-Filled-Square.dll
+C:\Users\User\source\repos\Methods-And-Debugging\Draw-A-Filled-Square\bin\Debug\netcoreapp2.0\Draw-A-Filled-Square.pdb
+C:\Users\User\source\repos\Methods-And-Debugging\Draw-A-Filled-Square\obj\Debug\netcoreapp2.0\Draw-A-Filled-Square.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods-And-Debugging\Draw-A-Filled-Square\obj\Debug\netcoreapp2.0\Draw-A-Filled-Square.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods-And-Debugging\Draw-A-Filled-Square\obj\Debug\netcoreapp2.0\Draw-A-Filled-Square.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods-And-Debugging\Draw-A-Filled-Square\obj\Debug\netcoreapp2.0\Draw-A-Filled-Square.dll
+C:\Users\User\source\repos\Methods-And-Debugging\Draw-A-Filled-Square\obj\Debug\netcoreapp2.0\Draw-A-Filled-Square.pdb

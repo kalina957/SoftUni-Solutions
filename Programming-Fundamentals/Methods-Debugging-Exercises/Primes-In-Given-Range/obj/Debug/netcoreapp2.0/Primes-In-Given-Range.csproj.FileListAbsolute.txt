@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Primes-In-Given-Range\bin\Debug\netcoreapp2.0\Primes-In-Given-Range.deps.json
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Primes-In-Given-Range\bin\Debug\netcoreapp2.0\Primes-In-Given-Range.runtimeconfig.json
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Primes-In-Given-Range\bin\Debug\netcoreapp2.0\Primes-In-Given-Range.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Primes-In-Given-Range\bin\Debug\netcoreapp2.0\Primes-In-Given-Range.dll
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Primes-In-Given-Range\bin\Debug\netcoreapp2.0\Primes-In-Given-Range.pdb
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Primes-In-Given-Range\obj\Debug\netcoreapp2.0\Primes-In-Given-Range.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Primes-In-Given-Range\obj\Debug\netcoreapp2.0\Primes-In-Given-Range.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Primes-In-Given-Range\obj\Debug\netcoreapp2.0\Primes-In-Given-Range.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Primes-In-Given-Range\obj\Debug\netcoreapp2.0\Primes-In-Given-Range.dll
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Primes-In-Given-Range\obj\Debug\netcoreapp2.0\Primes-In-Given-Range.pdb

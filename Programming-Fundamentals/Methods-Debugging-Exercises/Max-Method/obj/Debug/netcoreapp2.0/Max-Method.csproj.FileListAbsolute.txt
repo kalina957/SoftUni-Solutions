@@ -1,0 +1,10 @@
+c:\users\user\source\repos\Methods-Debugging-Exercises\Max-Method\bin\Debug\netcoreapp2.0\Max-Method.deps.json
+c:\users\user\source\repos\Methods-Debugging-Exercises\Max-Method\bin\Debug\netcoreapp2.0\Max-Method.runtimeconfig.json
+c:\users\user\source\repos\Methods-Debugging-Exercises\Max-Method\bin\Debug\netcoreapp2.0\Max-Method.runtimeconfig.dev.json
+c:\users\user\source\repos\Methods-Debugging-Exercises\Max-Method\bin\Debug\netcoreapp2.0\Max-Method.dll
+c:\users\user\source\repos\Methods-Debugging-Exercises\Max-Method\bin\Debug\netcoreapp2.0\Max-Method.pdb
+c:\users\user\source\repos\Methods-Debugging-Exercises\Max-Method\obj\Debug\netcoreapp2.0\Max-Method.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Methods-Debugging-Exercises\Max-Method\obj\Debug\netcoreapp2.0\Max-Method.AssemblyInfoInputs.cache
+c:\users\user\source\repos\Methods-Debugging-Exercises\Max-Method\obj\Debug\netcoreapp2.0\Max-Method.AssemblyInfo.cs
+c:\users\user\source\repos\Methods-Debugging-Exercises\Max-Method\obj\Debug\netcoreapp2.0\Max-Method.dll
+c:\users\user\source\repos\Methods-Debugging-Exercises\Max-Method\obj\Debug\netcoreapp2.0\Max-Method.pdb

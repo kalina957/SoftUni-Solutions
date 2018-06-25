@@ -1,0 +1,11 @@
+c:\users\user\source\repos\Methods-Debugging-Exercises\Prime-Checker\bin\Debug\netcoreapp2.0\Prime-Checker.deps.json
+c:\users\user\source\repos\Methods-Debugging-Exercises\Prime-Checker\bin\Debug\netcoreapp2.0\Prime-Checker.runtimeconfig.json
+c:\users\user\source\repos\Methods-Debugging-Exercises\Prime-Checker\bin\Debug\netcoreapp2.0\Prime-Checker.runtimeconfig.dev.json
+c:\users\user\source\repos\Methods-Debugging-Exercises\Prime-Checker\bin\Debug\netcoreapp2.0\Prime-Checker.dll
+c:\users\user\source\repos\Methods-Debugging-Exercises\Prime-Checker\bin\Debug\netcoreapp2.0\Prime-Checker.pdb
+c:\users\user\source\repos\Methods-Debugging-Exercises\Prime-Checker\obj\Debug\netcoreapp2.0\Prime-Checker.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Methods-Debugging-Exercises\Prime-Checker\obj\Debug\netcoreapp2.0\Prime-Checker.AssemblyInfoInputs.cache
+c:\users\user\source\repos\Methods-Debugging-Exercises\Prime-Checker\obj\Debug\netcoreapp2.0\Prime-Checker.AssemblyInfo.cs
+c:\users\user\source\repos\Methods-Debugging-Exercises\Prime-Checker\obj\Debug\netcoreapp2.0\Prime-Checker.dll
+c:\users\user\source\repos\Methods-Debugging-Exercises\Prime-Checker\obj\Debug\netcoreapp2.0\Prime-Checker.pdb
+C:\Users\User\source\repos\Methods-Debugging-Exercises\Prime-Checker\obj\Debug\netcoreapp2.0\Prime-Checker.csprojResolveAssemblyReference.cache
