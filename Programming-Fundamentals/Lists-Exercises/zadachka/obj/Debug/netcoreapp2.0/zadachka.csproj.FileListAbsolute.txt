@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Lists-Exercices\zadachka\bin\Debug\netcoreapp2.0\zadachka.deps.json
+C:\Users\User\source\repos\Lists-Exercices\zadachka\bin\Debug\netcoreapp2.0\zadachka.runtimeconfig.json
+C:\Users\User\source\repos\Lists-Exercices\zadachka\bin\Debug\netcoreapp2.0\zadachka.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lists-Exercices\zadachka\bin\Debug\netcoreapp2.0\zadachka.dll
+C:\Users\User\source\repos\Lists-Exercices\zadachka\bin\Debug\netcoreapp2.0\zadachka.pdb
+C:\Users\User\source\repos\Lists-Exercices\zadachka\obj\Debug\netcoreapp2.0\zadachka.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lists-Exercices\zadachka\obj\Debug\netcoreapp2.0\zadachka.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lists-Exercices\zadachka\obj\Debug\netcoreapp2.0\zadachka.AssemblyInfo.cs
+C:\Users\User\source\repos\Lists-Exercices\zadachka\obj\Debug\netcoreapp2.0\zadachka.dll
+C:\Users\User\source\repos\Lists-Exercices\zadachka\obj\Debug\netcoreapp2.0\zadachka.pdb

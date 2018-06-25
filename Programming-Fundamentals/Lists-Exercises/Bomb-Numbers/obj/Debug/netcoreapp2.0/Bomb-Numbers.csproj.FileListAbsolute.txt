@@ -1,0 +1,11 @@
+c:\users\user\source\repos\Lists-Exercices\Bomb-Numbers\bin\Debug\netcoreapp2.0\Bomb-Numbers.deps.json
+c:\users\user\source\repos\Lists-Exercices\Bomb-Numbers\bin\Debug\netcoreapp2.0\Bomb-Numbers.runtimeconfig.json
+c:\users\user\source\repos\Lists-Exercices\Bomb-Numbers\bin\Debug\netcoreapp2.0\Bomb-Numbers.runtimeconfig.dev.json
+c:\users\user\source\repos\Lists-Exercices\Bomb-Numbers\bin\Debug\netcoreapp2.0\Bomb-Numbers.dll
+c:\users\user\source\repos\Lists-Exercices\Bomb-Numbers\bin\Debug\netcoreapp2.0\Bomb-Numbers.pdb
+c:\users\user\source\repos\Lists-Exercices\Bomb-Numbers\obj\Debug\netcoreapp2.0\Bomb-Numbers.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Lists-Exercices\Bomb-Numbers\obj\Debug\netcoreapp2.0\Bomb-Numbers.AssemblyInfoInputs.cache
+c:\users\user\source\repos\Lists-Exercices\Bomb-Numbers\obj\Debug\netcoreapp2.0\Bomb-Numbers.AssemblyInfo.cs
+c:\users\user\source\repos\Lists-Exercices\Bomb-Numbers\obj\Debug\netcoreapp2.0\Bomb-Numbers.dll
+c:\users\user\source\repos\Lists-Exercices\Bomb-Numbers\obj\Debug\netcoreapp2.0\Bomb-Numbers.pdb
+c:\users\user\source\repos\Lists-Exercices\Bomb-Numbers\obj\Debug\netcoreapp2.0\Bomb-Numbers.csprojResolveAssemblyReference.cache
