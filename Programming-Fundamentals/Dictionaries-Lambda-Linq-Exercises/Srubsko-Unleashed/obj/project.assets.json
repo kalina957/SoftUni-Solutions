@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Dictionaries-Lambda-Linq-Excersices\\Srubsko-Unleashed\\Srubsko-Unleashed.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\Programming-Fundamentals\\Dictionaries-Lambda-Linq-Exercises\\Srubsko-Unleashed\\Srubsko-Unleashed.csproj",
       "projectName": "Srubsko-Unleashed",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Dictionaries-Lambda-Linq-Excersices\\Srubsko-Unleashed\\Srubsko-Unleashed.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\Programming-Fundamentals\\Dictionaries-Lambda-Linq-Exercises\\Srubsko-Unleashed\\Srubsko-Unleashed.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Dictionaries-Lambda-Linq-Excersices\\Srubsko-Unleashed\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\Programming-Fundamentals\\Dictionaries-Lambda-Linq-Exercises\\Srubsko-Unleashed\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

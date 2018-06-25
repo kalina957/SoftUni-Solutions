@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Dictionaries-Lambda-Linq-Excersices\\Legendary-Farming\\Legendary-Farming.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\Programming-Fundamentals\\Dictionaries-Lambda-Linq-Exercises\\Legendary-Farming\\Legendary-Farming.csproj",
       "projectName": "Legendary-Farming",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Dictionaries-Lambda-Linq-Excersices\\Legendary-Farming\\Legendary-Farming.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\Programming-Fundamentals\\Dictionaries-Lambda-Linq-Exercises\\Legendary-Farming\\Legendary-Farming.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Dictionaries-Lambda-Linq-Excersices\\Legendary-Farming\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\Programming-Fundamentals\\Dictionaries-Lambda-Linq-Exercises\\Legendary-Farming\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

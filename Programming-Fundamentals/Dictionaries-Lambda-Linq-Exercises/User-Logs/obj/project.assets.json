@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Dictionaries-Lambda-Linq-Excersices\\User-Logs\\User-Logs.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\Programming-Fundamentals\\Dictionaries-Lambda-Linq-Exercises\\User-Logs\\User-Logs.csproj",
       "projectName": "User-Logs",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Dictionaries-Lambda-Linq-Excersices\\User-Logs\\User-Logs.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\Programming-Fundamentals\\Dictionaries-Lambda-Linq-Exercises\\User-Logs\\User-Logs.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Dictionaries-Lambda-Linq-Excersices\\User-Logs\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\Programming-Fundamentals\\Dictionaries-Lambda-Linq-Exercises\\User-Logs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

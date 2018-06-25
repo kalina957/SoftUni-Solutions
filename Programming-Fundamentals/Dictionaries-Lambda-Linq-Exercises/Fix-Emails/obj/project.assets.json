@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Dictionaries-Lambda-Linq-Excersices\\Fix-Emails\\Fix-Emails.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\Programming-Fundamentals\\Dictionaries-Lambda-Linq-Exercises\\Fix-Emails\\Fix-Emails.csproj",
       "projectName": "Fix-Emails",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Dictionaries-Lambda-Linq-Excersices\\Fix-Emails\\Fix-Emails.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\Programming-Fundamentals\\Dictionaries-Lambda-Linq-Exercises\\Fix-Emails\\Fix-Emails.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Dictionaries-Lambda-Linq-Excersices\\Fix-Emails\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\Programming-Fundamentals\\Dictionaries-Lambda-Linq-Exercises\\Fix-Emails\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

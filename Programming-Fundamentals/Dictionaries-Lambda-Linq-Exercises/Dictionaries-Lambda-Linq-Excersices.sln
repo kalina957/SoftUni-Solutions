@@ -21,9 +21,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logs-Aggregator", "Logs-Agg
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Legendary-Farming", "Legendary-Farming\Legendary-Farming.csproj", "{5A1FC1C0-3B97-49B6-9E88-7FE64283537C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Srubsko-Unleashed", "Srubsko-Unleashed\Srubsko-Unleashed.csproj", "{A1BA66E6-D254-455F-BE8A-389E5369BF0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Srubsko-Unleashed", "Srubsko-Unleashed\Srubsko-Unleashed.csproj", "{A1BA66E6-D254-455F-BE8A-389E5369BF0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dragon-Army", "Dragon-Army\Dragon-Army.csproj", "{3D373C52-4D5E-4273-A382-CE8975AF946D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dragon-Army", "Dragon-Army\Dragon-Army.csproj", "{3D373C52-4D5E-4273-A382-CE8975AF946D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{0F983B0B-1A05-4027-B100-0DF79CDF1D9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{3D373C52-4D5E-4273-A382-CE8975AF946D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D373C52-4D5E-4273-A382-CE8975AF946D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D373C52-4D5E-4273-A382-CE8975AF946D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F983B0B-1A05-4027-B100-0DF79CDF1D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F983B0B-1A05-4027-B100-0DF79CDF1D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F983B0B-1A05-4027-B100-0DF79CDF1D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F983B0B-1A05-4027-B100-0DF79CDF1D9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

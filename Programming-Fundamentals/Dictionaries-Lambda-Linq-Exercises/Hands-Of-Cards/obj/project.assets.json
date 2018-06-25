@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Dictionaries-Lambda-Linq-Excersices\\Hands-Of-Cards\\Hands-Of-Cards.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\Programming-Fundamentals\\Dictionaries-Lambda-Linq-Exercises\\Hands-Of-Cards\\Hands-Of-Cards.csproj",
       "projectName": "Hands-Of-Cards",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Dictionaries-Lambda-Linq-Excersices\\Hands-Of-Cards\\Hands-Of-Cards.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\Programming-Fundamentals\\Dictionaries-Lambda-Linq-Exercises\\Hands-Of-Cards\\Hands-Of-Cards.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Dictionaries-Lambda-Linq-Excersices\\Hands-Of-Cards\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\Programming-Fundamentals\\Dictionaries-Lambda-Linq-Exercises\\Hands-Of-Cards\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
