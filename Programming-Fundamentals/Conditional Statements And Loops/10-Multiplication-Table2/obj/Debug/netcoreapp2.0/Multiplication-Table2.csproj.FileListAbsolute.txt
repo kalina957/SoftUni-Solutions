@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Multiplication-Table2\bin\Debug\netcoreapp2.0\Multiplication-Table2.deps.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Multiplication-Table2\bin\Debug\netcoreapp2.0\Multiplication-Table2.runtimeconfig.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Multiplication-Table2\bin\Debug\netcoreapp2.0\Multiplication-Table2.runtimeconfig.dev.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Multiplication-Table2\bin\Debug\netcoreapp2.0\Multiplication-Table2.dll
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Multiplication-Table2\bin\Debug\netcoreapp2.0\Multiplication-Table2.pdb
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Multiplication-Table2\obj\Debug\netcoreapp2.0\Multiplication-Table2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Multiplication-Table2\obj\Debug\netcoreapp2.0\Multiplication-Table2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Multiplication-Table2\obj\Debug\netcoreapp2.0\Multiplication-Table2.AssemblyInfo.cs
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Multiplication-Table2\obj\Debug\netcoreapp2.0\Multiplication-Table2.dll
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Multiplication-Table2\obj\Debug\netcoreapp2.0\Multiplication-Table2.pdb

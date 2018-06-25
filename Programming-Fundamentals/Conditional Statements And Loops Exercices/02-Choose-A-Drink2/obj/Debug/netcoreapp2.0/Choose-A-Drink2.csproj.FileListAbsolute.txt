@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TechM-Conditional-Statements\Choose-A-Drink2\bin\Debug\netcoreapp2.0\Choose-A-Drink2.deps.json
+C:\Users\User\source\repos\TechM-Conditional-Statements\Choose-A-Drink2\bin\Debug\netcoreapp2.0\Choose-A-Drink2.runtimeconfig.json
+C:\Users\User\source\repos\TechM-Conditional-Statements\Choose-A-Drink2\bin\Debug\netcoreapp2.0\Choose-A-Drink2.runtimeconfig.dev.json
+C:\Users\User\source\repos\TechM-Conditional-Statements\Choose-A-Drink2\bin\Debug\netcoreapp2.0\Choose-A-Drink2.dll
+C:\Users\User\source\repos\TechM-Conditional-Statements\Choose-A-Drink2\bin\Debug\netcoreapp2.0\Choose-A-Drink2.pdb
+C:\Users\User\source\repos\TechM-Conditional-Statements\Choose-A-Drink2\obj\Debug\netcoreapp2.0\Choose-A-Drink2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TechM-Conditional-Statements\Choose-A-Drink2\obj\Debug\netcoreapp2.0\Choose-A-Drink2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TechM-Conditional-Statements\Choose-A-Drink2\obj\Debug\netcoreapp2.0\Choose-A-Drink2.AssemblyInfo.cs
+C:\Users\User\source\repos\TechM-Conditional-Statements\Choose-A-Drink2\obj\Debug\netcoreapp2.0\Choose-A-Drink2.dll
+C:\Users\User\source\repos\TechM-Conditional-Statements\Choose-A-Drink2\obj\Debug\netcoreapp2.0\Choose-A-Drink2.pdb

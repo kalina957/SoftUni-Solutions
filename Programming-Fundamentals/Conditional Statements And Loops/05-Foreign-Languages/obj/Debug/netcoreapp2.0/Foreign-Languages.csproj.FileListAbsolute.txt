@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Foreign-Languages\bin\Debug\netcoreapp2.0\Foreign-Languages.deps.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Foreign-Languages\bin\Debug\netcoreapp2.0\Foreign-Languages.runtimeconfig.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Foreign-Languages\bin\Debug\netcoreapp2.0\Foreign-Languages.runtimeconfig.dev.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Foreign-Languages\bin\Debug\netcoreapp2.0\Foreign-Languages.dll
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Foreign-Languages\bin\Debug\netcoreapp2.0\Foreign-Languages.pdb
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Foreign-Languages\obj\Debug\netcoreapp2.0\Foreign-Languages.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Foreign-Languages\obj\Debug\netcoreapp2.0\Foreign-Languages.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Foreign-Languages\obj\Debug\netcoreapp2.0\Foreign-Languages.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Foreign-Languages\obj\Debug\netcoreapp2.0\Foreign-Languages.AssemblyInfo.cs
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Foreign-Languages\obj\Debug\netcoreapp2.0\Foreign-Languages.dll
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Foreign-Languages\obj\Debug\netcoreapp2.0\Foreign-Languages.pdb

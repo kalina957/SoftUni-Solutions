@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TechM-Conditional-Statements\Test-Numbers\bin\Debug\netcoreapp2.0\Test-Numbers.deps.json
+C:\Users\User\source\repos\TechM-Conditional-Statements\Test-Numbers\bin\Debug\netcoreapp2.0\Test-Numbers.runtimeconfig.json
+C:\Users\User\source\repos\TechM-Conditional-Statements\Test-Numbers\bin\Debug\netcoreapp2.0\Test-Numbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\TechM-Conditional-Statements\Test-Numbers\bin\Debug\netcoreapp2.0\Test-Numbers.dll
+C:\Users\User\source\repos\TechM-Conditional-Statements\Test-Numbers\bin\Debug\netcoreapp2.0\Test-Numbers.pdb
+C:\Users\User\source\repos\TechM-Conditional-Statements\Test-Numbers\obj\Debug\netcoreapp2.0\Test-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TechM-Conditional-Statements\Test-Numbers\obj\Debug\netcoreapp2.0\Test-Numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TechM-Conditional-Statements\Test-Numbers\obj\Debug\netcoreapp2.0\Test-Numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\TechM-Conditional-Statements\Test-Numbers\obj\Debug\netcoreapp2.0\Test-Numbers.dll
+C:\Users\User\source\repos\TechM-Conditional-Statements\Test-Numbers\obj\Debug\netcoreapp2.0\Test-Numbers.pdb

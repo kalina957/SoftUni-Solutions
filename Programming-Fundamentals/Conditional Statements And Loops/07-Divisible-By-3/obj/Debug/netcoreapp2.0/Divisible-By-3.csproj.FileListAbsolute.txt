@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Divisible-By-3\obj\Debug\netcoreapp2.0\Divisible-By-3.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Divisible-By-3\obj\Debug\netcoreapp2.0\Divisible-By-3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Divisible-By-3\obj\Debug\netcoreapp2.0\Divisible-By-3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Divisible-By-3\obj\Debug\netcoreapp2.0\Divisible-By-3.AssemblyInfo.cs
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Divisible-By-3\bin\Debug\netcoreapp2.0\Divisible-By-3.deps.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Divisible-By-3\bin\Debug\netcoreapp2.0\Divisible-By-3.runtimeconfig.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Divisible-By-3\bin\Debug\netcoreapp2.0\Divisible-By-3.runtimeconfig.dev.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Divisible-By-3\bin\Debug\netcoreapp2.0\Divisible-By-3.dll
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Divisible-By-3\bin\Debug\netcoreapp2.0\Divisible-By-3.pdb
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Divisible-By-3\obj\Debug\netcoreapp2.0\Divisible-By-3.dll
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Divisible-By-3\obj\Debug\netcoreapp2.0\Divisible-By-3.pdb

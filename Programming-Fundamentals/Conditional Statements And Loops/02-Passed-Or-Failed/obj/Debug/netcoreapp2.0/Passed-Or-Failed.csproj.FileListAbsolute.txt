@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Passed-Or-Failed\bin\Debug\netcoreapp2.0\Passed-Or-Failed.deps.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Passed-Or-Failed\bin\Debug\netcoreapp2.0\Passed-Or-Failed.runtimeconfig.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Passed-Or-Failed\bin\Debug\netcoreapp2.0\Passed-Or-Failed.runtimeconfig.dev.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Passed-Or-Failed\bin\Debug\netcoreapp2.0\Passed-Or-Failed.dll
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Passed-Or-Failed\bin\Debug\netcoreapp2.0\Passed-Or-Failed.pdb
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Passed-Or-Failed\obj\Debug\netcoreapp2.0\Passed-Or-Failed.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Passed-Or-Failed\obj\Debug\netcoreapp2.0\Passed-Or-Failed.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Passed-Or-Failed\obj\Debug\netcoreapp2.0\Passed-Or-Failed.AssemblyInfo.cs
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Passed-Or-Failed\obj\Debug\netcoreapp2.0\Passed-Or-Failed.dll
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Passed-Or-Failed\obj\Debug\netcoreapp2.0\Passed-Or-Failed.pdb

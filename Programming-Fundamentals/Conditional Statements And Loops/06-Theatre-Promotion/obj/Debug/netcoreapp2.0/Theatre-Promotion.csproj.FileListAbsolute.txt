@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Theatre-Promotion\bin\Debug\netcoreapp2.0\Theatre-Promotion.deps.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Theatre-Promotion\bin\Debug\netcoreapp2.0\Theatre-Promotion.runtimeconfig.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Theatre-Promotion\bin\Debug\netcoreapp2.0\Theatre-Promotion.runtimeconfig.dev.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Theatre-Promotion\bin\Debug\netcoreapp2.0\Theatre-Promotion.dll
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Theatre-Promotion\bin\Debug\netcoreapp2.0\Theatre-Promotion.pdb
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Theatre-Promotion\obj\Debug\netcoreapp2.0\Theatre-Promotion.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Theatre-Promotion\obj\Debug\netcoreapp2.0\Theatre-Promotion.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Theatre-Promotion\obj\Debug\netcoreapp2.0\Theatre-Promotion.AssemblyInfo.cs
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Theatre-Promotion\obj\Debug\netcoreapp2.0\Theatre-Promotion.dll
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Theatre-Promotion\obj\Debug\netcoreapp2.0\Theatre-Promotion.pdb

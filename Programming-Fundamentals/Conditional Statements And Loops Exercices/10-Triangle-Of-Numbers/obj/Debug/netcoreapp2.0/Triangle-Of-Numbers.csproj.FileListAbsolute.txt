@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\TechM-Conditional-Statements\Triangle-Of-Numbers\bin\Debug\netcoreapp2.0\Triangle-Of-Numbers.deps.json
+C:\Users\User\source\repos\TechM-Conditional-Statements\Triangle-Of-Numbers\bin\Debug\netcoreapp2.0\Triangle-Of-Numbers.runtimeconfig.json
+C:\Users\User\source\repos\TechM-Conditional-Statements\Triangle-Of-Numbers\bin\Debug\netcoreapp2.0\Triangle-Of-Numbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\TechM-Conditional-Statements\Triangle-Of-Numbers\bin\Debug\netcoreapp2.0\Triangle-Of-Numbers.dll
+C:\Users\User\source\repos\TechM-Conditional-Statements\Triangle-Of-Numbers\bin\Debug\netcoreapp2.0\Triangle-Of-Numbers.pdb
+C:\Users\User\source\repos\TechM-Conditional-Statements\Triangle-Of-Numbers\obj\Debug\netcoreapp2.0\Triangle-Of-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\TechM-Conditional-Statements\Triangle-Of-Numbers\obj\Debug\netcoreapp2.0\Triangle-Of-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TechM-Conditional-Statements\Triangle-Of-Numbers\obj\Debug\netcoreapp2.0\Triangle-Of-Numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TechM-Conditional-Statements\Triangle-Of-Numbers\obj\Debug\netcoreapp2.0\Triangle-Of-Numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\TechM-Conditional-Statements\Triangle-Of-Numbers\obj\Debug\netcoreapp2.0\Triangle-Of-Numbers.dll
+C:\Users\User\source\repos\TechM-Conditional-Statements\Triangle-Of-Numbers\obj\Debug\netcoreapp2.0\Triangle-Of-Numbers.pdb

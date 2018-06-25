@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Sum-Of-Odd-Numbers\bin\Debug\netcoreapp2.0\Sum-Of-Odd-Numbers.deps.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Sum-Of-Odd-Numbers\bin\Debug\netcoreapp2.0\Sum-Of-Odd-Numbers.runtimeconfig.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Sum-Of-Odd-Numbers\bin\Debug\netcoreapp2.0\Sum-Of-Odd-Numbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Sum-Of-Odd-Numbers\bin\Debug\netcoreapp2.0\Sum-Of-Odd-Numbers.dll
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Sum-Of-Odd-Numbers\bin\Debug\netcoreapp2.0\Sum-Of-Odd-Numbers.pdb
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Sum-Of-Odd-Numbers\obj\Debug\netcoreapp2.0\Sum-Of-Odd-Numbers.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Sum-Of-Odd-Numbers\obj\Debug\netcoreapp2.0\Sum-Of-Odd-Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Sum-Of-Odd-Numbers\obj\Debug\netcoreapp2.0\Sum-Of-Odd-Numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Sum-Of-Odd-Numbers\obj\Debug\netcoreapp2.0\Sum-Of-Odd-Numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Sum-Of-Odd-Numbers\obj\Debug\netcoreapp2.0\Sum-Of-Odd-Numbers.dll
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Sum-Of-Odd-Numbers\obj\Debug\netcoreapp2.0\Sum-Of-Odd-Numbers.pdb

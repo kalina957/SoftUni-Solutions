@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Number-Checker\bin\Debug\netcoreapp2.0\Number-Checker.deps.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Number-Checker\bin\Debug\netcoreapp2.0\Number-Checker.runtimeconfig.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Number-Checker\bin\Debug\netcoreapp2.0\Number-Checker.runtimeconfig.dev.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Number-Checker\bin\Debug\netcoreapp2.0\Number-Checker.dll
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Number-Checker\bin\Debug\netcoreapp2.0\Number-Checker.pdb
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Number-Checker\obj\Debug\netcoreapp2.0\Number-Checker.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Number-Checker\obj\Debug\netcoreapp2.0\Number-Checker.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Number-Checker\obj\Debug\netcoreapp2.0\Number-Checker.AssemblyInfo.cs
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Number-Checker\obj\Debug\netcoreapp2.0\Number-Checker.dll
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Number-Checker\obj\Debug\netcoreapp2.0\Number-Checker.pdb
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Number-Checker\obj\Debug\netcoreapp2.0\Number-Checker.csprojResolveAssemblyReference.cache

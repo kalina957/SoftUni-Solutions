@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TechM-Conditional-Statements\Magic-Number\obj\Debug\netcoreapp2.0\Magic-Number.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TechM-Conditional-Statements\Magic-Number\obj\Debug\netcoreapp2.0\Magic-Number.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TechM-Conditional-Statements\Magic-Number\obj\Debug\netcoreapp2.0\Magic-Number.AssemblyInfo.cs
+C:\Users\User\source\repos\TechM-Conditional-Statements\Magic-Number\bin\Debug\netcoreapp2.0\Magic-Number.deps.json
+C:\Users\User\source\repos\TechM-Conditional-Statements\Magic-Number\bin\Debug\netcoreapp2.0\Magic-Number.runtimeconfig.json
+C:\Users\User\source\repos\TechM-Conditional-Statements\Magic-Number\bin\Debug\netcoreapp2.0\Magic-Number.runtimeconfig.dev.json
+C:\Users\User\source\repos\TechM-Conditional-Statements\Magic-Number\bin\Debug\netcoreapp2.0\Magic-Number.dll
+C:\Users\User\source\repos\TechM-Conditional-Statements\Magic-Number\bin\Debug\netcoreapp2.0\Magic-Number.pdb
+C:\Users\User\source\repos\TechM-Conditional-Statements\Magic-Number\obj\Debug\netcoreapp2.0\Magic-Number.dll
+C:\Users\User\source\repos\TechM-Conditional-Statements\Magic-Number\obj\Debug\netcoreapp2.0\Magic-Number.pdb

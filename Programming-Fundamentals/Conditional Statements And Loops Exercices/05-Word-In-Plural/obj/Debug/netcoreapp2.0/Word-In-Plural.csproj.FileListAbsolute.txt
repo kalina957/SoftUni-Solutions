@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\TechM-Conditional-Statements\Word-In-Plural\bin\Debug\netcoreapp2.0\Word-In-Plural.deps.json
+C:\Users\User\source\repos\TechM-Conditional-Statements\Word-In-Plural\bin\Debug\netcoreapp2.0\Word-In-Plural.runtimeconfig.json
+C:\Users\User\source\repos\TechM-Conditional-Statements\Word-In-Plural\bin\Debug\netcoreapp2.0\Word-In-Plural.runtimeconfig.dev.json
+C:\Users\User\source\repos\TechM-Conditional-Statements\Word-In-Plural\bin\Debug\netcoreapp2.0\Word-In-Plural.dll
+C:\Users\User\source\repos\TechM-Conditional-Statements\Word-In-Plural\bin\Debug\netcoreapp2.0\Word-In-Plural.pdb
+C:\Users\User\source\repos\TechM-Conditional-Statements\Word-In-Plural\obj\Debug\netcoreapp2.0\Word-In-Plural.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\TechM-Conditional-Statements\Word-In-Plural\obj\Debug\netcoreapp2.0\Word-In-Plural.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TechM-Conditional-Statements\Word-In-Plural\obj\Debug\netcoreapp2.0\Word-In-Plural.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TechM-Conditional-Statements\Word-In-Plural\obj\Debug\netcoreapp2.0\Word-In-Plural.AssemblyInfo.cs
+C:\Users\User\source\repos\TechM-Conditional-Statements\Word-In-Plural\obj\Debug\netcoreapp2.0\Word-In-Plural.dll
+C:\Users\User\source\repos\TechM-Conditional-Statements\Word-In-Plural\obj\Debug\netcoreapp2.0\Word-In-Plural.pdb

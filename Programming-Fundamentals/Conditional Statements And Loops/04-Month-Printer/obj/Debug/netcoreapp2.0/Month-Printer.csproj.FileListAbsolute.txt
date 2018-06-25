@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Month-Printer\obj\Debug\netcoreapp2.0\Month-Printer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Month-Printer\obj\Debug\netcoreapp2.0\Month-Printer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Month-Printer\obj\Debug\netcoreapp2.0\Month-Printer.AssemblyInfo.cs
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Month-Printer\bin\Debug\netcoreapp2.0\Month-Printer.deps.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Month-Printer\bin\Debug\netcoreapp2.0\Month-Printer.runtimeconfig.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Month-Printer\bin\Debug\netcoreapp2.0\Month-Printer.runtimeconfig.dev.json
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Month-Printer\bin\Debug\netcoreapp2.0\Month-Printer.dll
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Month-Printer\bin\Debug\netcoreapp2.0\Month-Printer.pdb
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Month-Printer\obj\Debug\netcoreapp2.0\Month-Printer.dll
+C:\Users\User\source\repos\TeaachM-Conditional-Statements\Month-Printer\obj\Debug\netcoreapp2.0\Month-Printer.pdb
