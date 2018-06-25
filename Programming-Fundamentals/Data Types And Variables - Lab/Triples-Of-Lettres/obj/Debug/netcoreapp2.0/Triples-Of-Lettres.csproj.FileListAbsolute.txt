@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Triples-Of-Lettres\bin\Debug\netcoreapp2.0\Triples-Of-Lettres.deps.json
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Triples-Of-Lettres\bin\Debug\netcoreapp2.0\Triples-Of-Lettres.runtimeconfig.json
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Triples-Of-Lettres\bin\Debug\netcoreapp2.0\Triples-Of-Lettres.runtimeconfig.dev.json
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Triples-Of-Lettres\bin\Debug\netcoreapp2.0\Triples-Of-Lettres.dll
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Triples-Of-Lettres\bin\Debug\netcoreapp2.0\Triples-Of-Lettres.pdb
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Triples-Of-Lettres\obj\Debug\netcoreapp2.0\Triples-Of-Lettres.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Triples-Of-Lettres\obj\Debug\netcoreapp2.0\Triples-Of-Lettres.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Triples-Of-Lettres\obj\Debug\netcoreapp2.0\Triples-Of-Lettres.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Triples-Of-Lettres\obj\Debug\netcoreapp2.0\Triples-Of-Lettres.AssemblyInfo.cs
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Triples-Of-Lettres\obj\Debug\netcoreapp2.0\Triples-Of-Lettres.dll
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Triples-Of-Lettres\obj\Debug\netcoreapp2.0\Triples-Of-Lettres.pdb

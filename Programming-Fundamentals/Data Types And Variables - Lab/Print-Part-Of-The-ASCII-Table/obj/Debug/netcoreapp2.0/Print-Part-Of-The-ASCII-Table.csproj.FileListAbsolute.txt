@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Print-Part-Of-The-ASCII-Table\obj\Debug\netcoreapp2.0\Print-Part-Of-The-ASCII-Table.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Print-Part-Of-The-ASCII-Table\obj\Debug\netcoreapp2.0\Print-Part-Of-The-ASCII-Table.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Print-Part-Of-The-ASCII-Table\obj\Debug\netcoreapp2.0\Print-Part-Of-The-ASCII-Table.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Print-Part-Of-The-ASCII-Table\obj\Debug\netcoreapp2.0\Print-Part-Of-The-ASCII-Table.AssemblyInfo.cs
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Print-Part-Of-The-ASCII-Table\bin\Debug\netcoreapp2.0\Print-Part-Of-The-ASCII-Table.deps.json
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Print-Part-Of-The-ASCII-Table\bin\Debug\netcoreapp2.0\Print-Part-Of-The-ASCII-Table.runtimeconfig.json
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Print-Part-Of-The-ASCII-Table\bin\Debug\netcoreapp2.0\Print-Part-Of-The-ASCII-Table.runtimeconfig.dev.json
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Print-Part-Of-The-ASCII-Table\bin\Debug\netcoreapp2.0\Print-Part-Of-The-ASCII-Table.dll
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Print-Part-Of-The-ASCII-Table\bin\Debug\netcoreapp2.0\Print-Part-Of-The-ASCII-Table.pdb
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Print-Part-Of-The-ASCII-Table\obj\Debug\netcoreapp2.0\Print-Part-Of-The-ASCII-Table.dll
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Print-Part-Of-The-ASCII-Table\obj\Debug\netcoreapp2.0\Print-Part-Of-The-ASCII-Table.pdb

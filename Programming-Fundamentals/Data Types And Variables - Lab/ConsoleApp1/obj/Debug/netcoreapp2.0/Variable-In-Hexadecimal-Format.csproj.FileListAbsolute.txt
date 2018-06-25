@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\ConsoleApp1\bin\Debug\netcoreapp2.0\Variable-In-Hexadecimal-Format.deps.json
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\ConsoleApp1\bin\Debug\netcoreapp2.0\Variable-In-Hexadecimal-Format.runtimeconfig.json
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\ConsoleApp1\bin\Debug\netcoreapp2.0\Variable-In-Hexadecimal-Format.runtimeconfig.dev.json
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\ConsoleApp1\bin\Debug\netcoreapp2.0\Variable-In-Hexadecimal-Format.dll
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\ConsoleApp1\bin\Debug\netcoreapp2.0\Variable-In-Hexadecimal-Format.pdb
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\ConsoleApp1\obj\Debug\netcoreapp2.0\Variable-In-Hexadecimal-Format.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\ConsoleApp1\obj\Debug\netcoreapp2.0\Variable-In-Hexadecimal-Format.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\ConsoleApp1\obj\Debug\netcoreapp2.0\Variable-In-Hexadecimal-Format.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\ConsoleApp1\obj\Debug\netcoreapp2.0\Variable-In-Hexadecimal-Format.AssemblyInfo.cs
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\ConsoleApp1\obj\Debug\netcoreapp2.0\Variable-In-Hexadecimal-Format.dll
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\ConsoleApp1\obj\Debug\netcoreapp2.0\Variable-In-Hexadecimal-Format.pdb

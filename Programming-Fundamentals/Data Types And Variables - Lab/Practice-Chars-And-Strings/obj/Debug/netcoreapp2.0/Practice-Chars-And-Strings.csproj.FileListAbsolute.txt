@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Practice-Chars-And-Strings\bin\Debug\netcoreapp2.0\Practice-Chars-And-Strings.deps.json
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Practice-Chars-And-Strings\bin\Debug\netcoreapp2.0\Practice-Chars-And-Strings.runtimeconfig.json
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Practice-Chars-And-Strings\bin\Debug\netcoreapp2.0\Practice-Chars-And-Strings.runtimeconfig.dev.json
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Practice-Chars-And-Strings\bin\Debug\netcoreapp2.0\Practice-Chars-And-Strings.dll
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Practice-Chars-And-Strings\bin\Debug\netcoreapp2.0\Practice-Chars-And-Strings.pdb
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Practice-Chars-And-Strings\obj\Debug\netcoreapp2.0\Practice-Chars-And-Strings.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Practice-Chars-And-Strings\obj\Debug\netcoreapp2.0\Practice-Chars-And-Strings.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Practice-Chars-And-Strings\obj\Debug\netcoreapp2.0\Practice-Chars-And-Strings.AssemblyInfo.cs
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Practice-Chars-And-Strings\obj\Debug\netcoreapp2.0\Practice-Chars-And-Strings.dll
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Practice-Chars-And-Strings\obj\Debug\netcoreapp2.0\Practice-Chars-And-Strings.pdb
+C:\Users\User\source\repos\TM-Data-Types-And-Variables\Practice-Chars-And-Strings\obj\Debug\netcoreapp2.0\Practice-Chars-And-Strings.csprojResolveAssemblyReference.cache
