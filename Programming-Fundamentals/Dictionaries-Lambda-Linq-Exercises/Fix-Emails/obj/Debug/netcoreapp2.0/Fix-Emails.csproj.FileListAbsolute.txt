@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Fix-Emails\bin\Debug\netcoreapp2.0\Fix-Emails.deps.json
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Fix-Emails\bin\Debug\netcoreapp2.0\Fix-Emails.runtimeconfig.json
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Fix-Emails\bin\Debug\netcoreapp2.0\Fix-Emails.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Fix-Emails\bin\Debug\netcoreapp2.0\Fix-Emails.dll
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Fix-Emails\bin\Debug\netcoreapp2.0\Fix-Emails.pdb
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Fix-Emails\obj\Debug\netcoreapp2.0\Fix-Emails.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Fix-Emails\obj\Debug\netcoreapp2.0\Fix-Emails.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Fix-Emails\obj\Debug\netcoreapp2.0\Fix-Emails.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Fix-Emails\obj\Debug\netcoreapp2.0\Fix-Emails.AssemblyInfo.cs
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Fix-Emails\obj\Debug\netcoreapp2.0\Fix-Emails.dll
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Fix-Emails\obj\Debug\netcoreapp2.0\Fix-Emails.pdb

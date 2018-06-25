@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Population-Counter\bin\Debug\netcoreapp2.0\Population-Counter.deps.json
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Population-Counter\bin\Debug\netcoreapp2.0\Population-Counter.runtimeconfig.json
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Population-Counter\bin\Debug\netcoreapp2.0\Population-Counter.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Population-Counter\bin\Debug\netcoreapp2.0\Population-Counter.dll
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Population-Counter\bin\Debug\netcoreapp2.0\Population-Counter.pdb
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Population-Counter\obj\Debug\netcoreapp2.0\Population-Counter.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Population-Counter\obj\Debug\netcoreapp2.0\Population-Counter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Population-Counter\obj\Debug\netcoreapp2.0\Population-Counter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Population-Counter\obj\Debug\netcoreapp2.0\Population-Counter.AssemblyInfo.cs
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Population-Counter\obj\Debug\netcoreapp2.0\Population-Counter.dll
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Population-Counter\obj\Debug\netcoreapp2.0\Population-Counter.pdb

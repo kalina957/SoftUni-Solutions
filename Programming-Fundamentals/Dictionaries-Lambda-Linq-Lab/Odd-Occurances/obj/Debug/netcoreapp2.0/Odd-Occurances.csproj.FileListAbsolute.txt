@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\DICTIONARIES-LAMBDA-EXPRESSIONS-AND-LINQ-Lab\Odd-Occurances\obj\Debug\netcoreapp2.0\Odd-Occurances.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\DICTIONARIES-LAMBDA-EXPRESSIONS-AND-LINQ-Lab\Odd-Occurances\obj\Debug\netcoreapp2.0\Odd-Occurances.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DICTIONARIES-LAMBDA-EXPRESSIONS-AND-LINQ-Lab\Odd-Occurances\obj\Debug\netcoreapp2.0\Odd-Occurances.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\DICTIONARIES-LAMBDA-EXPRESSIONS-AND-LINQ-Lab\Odd-Occurances\obj\Debug\netcoreapp2.0\Odd-Occurances.AssemblyInfo.cs
+C:\Users\User\source\repos\DICTIONARIES-LAMBDA-EXPRESSIONS-AND-LINQ-Lab\Odd-Occurances\bin\Debug\netcoreapp2.0\Odd-Occurances.deps.json
+C:\Users\User\source\repos\DICTIONARIES-LAMBDA-EXPRESSIONS-AND-LINQ-Lab\Odd-Occurances\bin\Debug\netcoreapp2.0\Odd-Occurances.runtimeconfig.json
+C:\Users\User\source\repos\DICTIONARIES-LAMBDA-EXPRESSIONS-AND-LINQ-Lab\Odd-Occurances\bin\Debug\netcoreapp2.0\Odd-Occurances.runtimeconfig.dev.json
+C:\Users\User\source\repos\DICTIONARIES-LAMBDA-EXPRESSIONS-AND-LINQ-Lab\Odd-Occurances\bin\Debug\netcoreapp2.0\Odd-Occurances.dll
+C:\Users\User\source\repos\DICTIONARIES-LAMBDA-EXPRESSIONS-AND-LINQ-Lab\Odd-Occurances\bin\Debug\netcoreapp2.0\Odd-Occurances.pdb
+C:\Users\User\source\repos\DICTIONARIES-LAMBDA-EXPRESSIONS-AND-LINQ-Lab\Odd-Occurances\obj\Debug\netcoreapp2.0\Odd-Occurances.dll
+C:\Users\User\source\repos\DICTIONARIES-LAMBDA-EXPRESSIONS-AND-LINQ-Lab\Odd-Occurances\obj\Debug\netcoreapp2.0\Odd-Occurances.pdb

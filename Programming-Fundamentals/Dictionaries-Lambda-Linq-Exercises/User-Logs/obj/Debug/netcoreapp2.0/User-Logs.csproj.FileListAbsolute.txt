@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\User-Logs\bin\Debug\netcoreapp2.0\User-Logs.deps.json
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\User-Logs\bin\Debug\netcoreapp2.0\User-Logs.runtimeconfig.json
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\User-Logs\bin\Debug\netcoreapp2.0\User-Logs.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\User-Logs\bin\Debug\netcoreapp2.0\User-Logs.dll
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\User-Logs\bin\Debug\netcoreapp2.0\User-Logs.pdb
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\User-Logs\obj\Debug\netcoreapp2.0\User-Logs.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\User-Logs\obj\Debug\netcoreapp2.0\User-Logs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\User-Logs\obj\Debug\netcoreapp2.0\User-Logs.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\User-Logs\obj\Debug\netcoreapp2.0\User-Logs.AssemblyInfo.cs
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\User-Logs\obj\Debug\netcoreapp2.0\User-Logs.dll
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\User-Logs\obj\Debug\netcoreapp2.0\User-Logs.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Srubsko-Unleashed\bin\Debug\netcoreapp2.0\Srubsko-Unleashed.deps.json
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Srubsko-Unleashed\bin\Debug\netcoreapp2.0\Srubsko-Unleashed.runtimeconfig.json
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Srubsko-Unleashed\bin\Debug\netcoreapp2.0\Srubsko-Unleashed.runtimeconfig.dev.json
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Srubsko-Unleashed\bin\Debug\netcoreapp2.0\Srubsko-Unleashed.dll
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Srubsko-Unleashed\bin\Debug\netcoreapp2.0\Srubsko-Unleashed.pdb
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Srubsko-Unleashed\obj\Debug\netcoreapp2.0\Srubsko-Unleashed.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Srubsko-Unleashed\obj\Debug\netcoreapp2.0\Srubsko-Unleashed.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Srubsko-Unleashed\obj\Debug\netcoreapp2.0\Srubsko-Unleashed.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Srubsko-Unleashed\obj\Debug\netcoreapp2.0\Srubsko-Unleashed.AssemblyInfo.cs
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Srubsko-Unleashed\obj\Debug\netcoreapp2.0\Srubsko-Unleashed.dll
+C:\Users\User\source\repos\Dictionaries-Lambda-Linq-Excersices\Srubsko-Unleashed\obj\Debug\netcoreapp2.0\Srubsko-Unleashed.pdb
