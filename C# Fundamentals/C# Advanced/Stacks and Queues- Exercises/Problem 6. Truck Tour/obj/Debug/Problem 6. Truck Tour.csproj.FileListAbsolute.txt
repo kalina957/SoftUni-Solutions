@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues- Exercises\Problem 6. Truck Tour\bin\Debug\Problem_6.Truck_Tour.exe.config
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues- Exercises\Problem 6. Truck Tour\bin\Debug\Problem_6.Truck_Tour.exe
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues- Exercises\Problem 6. Truck Tour\bin\Debug\Problem_6.Truck_Tour.pdb
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues- Exercises\Problem 6. Truck Tour\obj\Debug\Problem 6. Truck Tour.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues- Exercises\Problem 6. Truck Tour\obj\Debug\Problem 6. Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues- Exercises\Problem 6. Truck Tour\obj\Debug\Problem_6.Truck_Tour.exe
+C:\Users\User\Desktop\C# Advanced\Stacks and Queues- Exercises\Problem 6. Truck Tour\obj\Debug\Problem_6.Truck_Tour.pdb
