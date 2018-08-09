@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Streams-Lab\Read File\bin\Debug\netcoreapp2.0\Read File.deps.json
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Streams-Lab\Read File\bin\Debug\netcoreapp2.0\Read File.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Streams-Lab\Read File\bin\Debug\netcoreapp2.0\Read File.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Streams-Lab\Read File\bin\Debug\netcoreapp2.0\Read File.dll
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Streams-Lab\Read File\bin\Debug\netcoreapp2.0\Read File.pdb
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Streams-Lab\Read File\obj\Debug\netcoreapp2.0\Read File.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Streams-Lab\Read File\obj\Debug\netcoreapp2.0\Read File.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Streams-Lab\Read File\obj\Debug\netcoreapp2.0\Read File.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Streams-Lab\Read File\obj\Debug\netcoreapp2.0\Read File.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Streams-Lab\Read File\obj\Debug\netcoreapp2.0\Read File.dll
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Streams-Lab\Read File\obj\Debug\netcoreapp2.0\Read File.pdb
