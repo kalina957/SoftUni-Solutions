@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercises\Problem 5. Rubik’s Matrix\bin\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.deps.json
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercises\Problem 5. Rubik’s Matrix\bin\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercises\Problem 5. Rubik’s Matrix\bin\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercises\Problem 5. Rubik’s Matrix\bin\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.dll
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercises\Problem 5. Rubik’s Matrix\bin\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.pdb
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercises\Problem 5. Rubik’s Matrix\obj\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercises\Problem 5. Rubik’s Matrix\obj\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercises\Problem 5. Rubik’s Matrix\obj\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercises\Problem 5. Rubik’s Matrix\obj\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercises\Problem 5. Rubik’s Matrix\obj\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.dll
+C:\Users\User\Desktop\SoftUni-Solutions\SoftUni-Solutions\C# Fundamentals\C# Advanced\Multidimensional Arrays - Exercises\Problem 5. Rubik’s Matrix\obj\Debug\netcoreapp2.0\Problem 5. Rubik’s Matrix.pdb

@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Multidimensional Arrays - Exercises\\3. Squares in Matrix\\3. Squares in Matrix.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\C# Fundamentals\\C# Advanced\\Multidimensional Arrays - Exercises\\3. Squares in Matrix\\3. Squares in Matrix.csproj",
       "projectName": "3. Squares in Matrix",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Multidimensional Arrays - Exercises\\3. Squares in Matrix\\3. Squares in Matrix.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\C# Fundamentals\\C# Advanced\\Multidimensional Arrays - Exercises\\3. Squares in Matrix\\3. Squares in Matrix.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Multidimensional Arrays - Exercises\\3. Squares in Matrix\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\C# Fundamentals\\C# Advanced\\Multidimensional Arrays - Exercises\\3. Squares in Matrix\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

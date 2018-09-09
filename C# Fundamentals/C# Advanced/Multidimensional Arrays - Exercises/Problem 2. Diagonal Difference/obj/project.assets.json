@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Multidimensional Arrays - Exercises\\Problem 2. Diagonal Difference\\Problem 2. Diagonal Difference.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\C# Fundamentals\\C# Advanced\\Multidimensional Arrays - Exercises\\Problem 2. Diagonal Difference\\Problem 2. Diagonal Difference.csproj",
       "projectName": "Problem 2. Diagonal Difference",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Multidimensional Arrays - Exercises\\Problem 2. Diagonal Difference\\Problem 2. Diagonal Difference.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\C# Fundamentals\\C# Advanced\\Multidimensional Arrays - Exercises\\Problem 2. Diagonal Difference\\Problem 2. Diagonal Difference.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Multidimensional Arrays - Exercises\\Problem 2. Diagonal Difference\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\C# Fundamentals\\C# Advanced\\Multidimensional Arrays - Exercises\\Problem 2. Diagonal Difference\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

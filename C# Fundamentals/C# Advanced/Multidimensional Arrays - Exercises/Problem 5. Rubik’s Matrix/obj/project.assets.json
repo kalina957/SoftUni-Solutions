@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\C# Fundamentals\\C# Advanced\\Multidimensional Arrays - Exercises\\Problem 1. Matrix of Palindromes\\Problem 1. Matrix of Palindromes.csproj",
-      "projectName": "Problem 1. Matrix of Palindromes",
-      "projectPath": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\C# Fundamentals\\C# Advanced\\Multidimensional Arrays - Exercises\\Problem 1. Matrix of Palindromes\\Problem 1. Matrix of Palindromes.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\C# Fundamentals\\C# Advanced\\Multidimensional Arrays - Exercises\\Problem 5. Rubik’s Matrix\\Problem 5. Rubik’s Matrix.csproj",
+      "projectName": "Problem 5. Rubik’s Matrix",
+      "projectPath": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\C# Fundamentals\\C# Advanced\\Multidimensional Arrays - Exercises\\Problem 5. Rubik’s Matrix\\Problem 5. Rubik’s Matrix.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\C# Fundamentals\\C# Advanced\\Multidimensional Arrays - Exercises\\Problem 1. Matrix of Palindromes\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\C# Fundamentals\\C# Advanced\\Multidimensional Arrays - Exercises\\Problem 5. Rubik’s Matrix\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

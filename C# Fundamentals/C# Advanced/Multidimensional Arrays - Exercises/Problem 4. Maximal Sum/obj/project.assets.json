@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Multidimensional Arrays - Exercises\\Problem 4. Maximal Sum\\Problem 4. Maximal Sum.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\C# Fundamentals\\C# Advanced\\Multidimensional Arrays - Exercises\\Problem 4. Maximal Sum\\Problem 4. Maximal Sum.csproj",
       "projectName": "Problem 4. Maximal Sum",
-      "projectPath": "C:\\Users\\User\\source\\repos\\Multidimensional Arrays - Exercises\\Problem 4. Maximal Sum\\Problem 4. Maximal Sum.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\C# Fundamentals\\C# Advanced\\Multidimensional Arrays - Exercises\\Problem 4. Maximal Sum\\Problem 4. Maximal Sum.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\Multidimensional Arrays - Exercises\\Problem 4. Maximal Sum\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\SoftUni-Solutions\\SoftUni-Solutions\\C# Fundamentals\\C# Advanced\\Multidimensional Arrays - Exercises\\Problem 4. Maximal Sum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
