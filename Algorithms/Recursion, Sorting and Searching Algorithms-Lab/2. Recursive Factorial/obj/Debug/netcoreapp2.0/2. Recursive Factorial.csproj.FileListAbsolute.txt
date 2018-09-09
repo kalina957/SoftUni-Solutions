@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\2. Recursive Factorial\bin\Debug\netcoreapp2.0\2. Recursive Factorial.deps.json
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\2. Recursive Factorial\bin\Debug\netcoreapp2.0\2. Recursive Factorial.runtimeconfig.json
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\2. Recursive Factorial\bin\Debug\netcoreapp2.0\2. Recursive Factorial.runtimeconfig.dev.json
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\2. Recursive Factorial\bin\Debug\netcoreapp2.0\2. Recursive Factorial.dll
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\2. Recursive Factorial\bin\Debug\netcoreapp2.0\2. Recursive Factorial.pdb
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\2. Recursive Factorial\obj\Debug\netcoreapp2.0\2. Recursive Factorial.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\2. Recursive Factorial\obj\Debug\netcoreapp2.0\2. Recursive Factorial.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\2. Recursive Factorial\obj\Debug\netcoreapp2.0\2. Recursive Factorial.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\2. Recursive Factorial\obj\Debug\netcoreapp2.0\2. Recursive Factorial.AssemblyInfo.cs
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\2. Recursive Factorial\obj\Debug\netcoreapp2.0\2. Recursive Factorial.dll
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\2. Recursive Factorial\obj\Debug\netcoreapp2.0\2. Recursive Factorial.pdb

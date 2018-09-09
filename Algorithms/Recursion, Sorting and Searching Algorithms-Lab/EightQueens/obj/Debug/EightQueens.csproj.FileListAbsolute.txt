@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\EightQueens\bin\Debug\EightQueens.exe.config
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\EightQueens\bin\Debug\EightQueens.exe
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\EightQueens\bin\Debug\EightQueens.pdb
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\EightQueens\obj\Debug\EightQueens.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\EightQueens\obj\Debug\EightQueens.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\EightQueens\obj\Debug\EightQueens.exe
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\EightQueens\obj\Debug\EightQueens.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\04. Generating 01 Vectors\bin\Debug\netcoreapp2.0\04. Generating 01 Vectors.deps.json
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\04. Generating 01 Vectors\bin\Debug\netcoreapp2.0\04. Generating 01 Vectors.runtimeconfig.json
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\04. Generating 01 Vectors\bin\Debug\netcoreapp2.0\04. Generating 01 Vectors.runtimeconfig.dev.json
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\04. Generating 01 Vectors\bin\Debug\netcoreapp2.0\04. Generating 01 Vectors.dll
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\04. Generating 01 Vectors\bin\Debug\netcoreapp2.0\04. Generating 01 Vectors.pdb
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\04. Generating 01 Vectors\obj\Debug\netcoreapp2.0\04. Generating 01 Vectors.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\04. Generating 01 Vectors\obj\Debug\netcoreapp2.0\04. Generating 01 Vectors.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\04. Generating 01 Vectors\obj\Debug\netcoreapp2.0\04. Generating 01 Vectors.AssemblyInfo.cs
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\04. Generating 01 Vectors\obj\Debug\netcoreapp2.0\04. Generating 01 Vectors.dll
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\04. Generating 01 Vectors\obj\Debug\netcoreapp2.0\04. Generating 01 Vectors.pdb
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\04. Generating 01 Vectors\obj\Debug\netcoreapp2.0\04. Generating 01 Vectors.csprojResolveAssemblyReference.cache

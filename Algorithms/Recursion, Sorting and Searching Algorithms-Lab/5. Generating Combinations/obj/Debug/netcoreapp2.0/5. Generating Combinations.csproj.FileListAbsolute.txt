@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\5. Generating Combinations\bin\Debug\netcoreapp2.0\5. Generating Combinations.deps.json
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\5. Generating Combinations\bin\Debug\netcoreapp2.0\5. Generating Combinations.runtimeconfig.json
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\5. Generating Combinations\bin\Debug\netcoreapp2.0\5. Generating Combinations.runtimeconfig.dev.json
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\5. Generating Combinations\bin\Debug\netcoreapp2.0\5. Generating Combinations.dll
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\5. Generating Combinations\bin\Debug\netcoreapp2.0\5. Generating Combinations.pdb
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\5. Generating Combinations\obj\Debug\netcoreapp2.0\5. Generating Combinations.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\5. Generating Combinations\obj\Debug\netcoreapp2.0\5. Generating Combinations.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\5. Generating Combinations\obj\Debug\netcoreapp2.0\5. Generating Combinations.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\5. Generating Combinations\obj\Debug\netcoreapp2.0\5. Generating Combinations.AssemblyInfo.cs
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\5. Generating Combinations\obj\Debug\netcoreapp2.0\5. Generating Combinations.dll
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\5. Generating Combinations\obj\Debug\netcoreapp2.0\5. Generating Combinations.pdb

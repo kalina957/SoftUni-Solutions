@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\1. Recursive Array Sum\bin\Debug\netcoreapp2.0\1. Recursive Array Sum.deps.json
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\1. Recursive Array Sum\bin\Debug\netcoreapp2.0\1. Recursive Array Sum.runtimeconfig.json
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\1. Recursive Array Sum\bin\Debug\netcoreapp2.0\1. Recursive Array Sum.runtimeconfig.dev.json
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\1. Recursive Array Sum\bin\Debug\netcoreapp2.0\1. Recursive Array Sum.dll
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\1. Recursive Array Sum\bin\Debug\netcoreapp2.0\1. Recursive Array Sum.pdb
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\1. Recursive Array Sum\obj\Debug\netcoreapp2.0\1. Recursive Array Sum.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\1. Recursive Array Sum\obj\Debug\netcoreapp2.0\1. Recursive Array Sum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\1. Recursive Array Sum\obj\Debug\netcoreapp2.0\1. Recursive Array Sum.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\1. Recursive Array Sum\obj\Debug\netcoreapp2.0\1. Recursive Array Sum.AssemblyInfo.cs
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\1. Recursive Array Sum\obj\Debug\netcoreapp2.0\1. Recursive Array Sum.dll
+C:\Users\User\Desktop\Algorithms\Recursion, Sorting and Searching Algorithms-Lab\1. Recursive Array Sum\obj\Debug\netcoreapp2.0\1. Recursive Array Sum.pdb
